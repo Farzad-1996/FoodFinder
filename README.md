@@ -1,6 +1,6 @@
 # FoodFinder
 Description: 
-Food Finder in Bangladesh is a app designed to help the user to find the right food in various restaurants. The app allows users to search for food of different location and in different cuisine. It is a perfect destination for food lover people.
+Food Finder in Bangladesh is an app designed to help the user to find the right food in various restaurants. The app allows users to search for food of different location and in different cuisine. It is a perfect destination for food lover people.
 
 Features:
 1. User can see menus of different restaurants. 
